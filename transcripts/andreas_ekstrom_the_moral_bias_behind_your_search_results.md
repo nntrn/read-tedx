@@ -1,0 +1,158 @@
+---
+title: The moral bias behind your search results
+speaker: Andreas Ekström
+description: >-
+ Search engines have become our most trusted sources of information and arbiters
+ of truth. But can we ever get an unbiased search result? Swedish author and
+ journalist Andreas Ekström argues that such a thing is a philosophical impossibility.
+ In this thoughtful talk, he calls on us to strengthen the bonds between
+ technology and the humanities, and he reminds us that behind every algorithm is a
+ set of personal beliefs that no code can ever completely eradicate.
+date: 2015-01-29
+tags: ["tedx","algorithm","communication","decisionmaking","society","google","internet","software","technology","web","computers"]
+slug: andreas_ekstrom_the_moral_bias_behind_your_search_results
+---
+
+So whenever I visit a school and talk to students, I always ask them the same thing: Why
+do you Google? Why is Google the search engine of choice for you? Strangely enough, I
+always get the same three answers. One, "Because it works," which is a great answer;
+that's why I Google, too. Two, somebody will say, "I really don't know of any
+alternatives." It's not an equally great answer and my reply to that is usually, "Try to
+Google the word 'search engine,' you may find a couple of interesting alternatives." And
+last but not least, thirdly, inevitably, one student will raise her or his hand and say,
+"With Google, I'm certain to always get the best, unbiased search result." Certain to
+always get the best, unbiased search result. Now, as a man of the humanities, albeit a
+digital humanities man, that just makes my skin curl, even if I, too, realize that that
+trust, that idea of the unbiased search result is a cornerstone in our collective love for
+and appreciation of Google.
+
+I will show you why that, philosophically, is almost an impossibility. But let me first
+elaborate, just a little bit, on a basic principle behind each search query that we
+sometimes seem to forget. So whenever you set out to Google something, start by asking
+yourself this: "Am I looking for an isolated fact?" What is the capital of France? What
+are the building blocks of a water molecule? Great — Google away. There's not a group of
+scientists who are this close to proving that it's actually London and H30. You don't see
+a big conspiracy among those things. We agree, on a global scale, what the answers are to
+these isolated facts. But if you complicate your question just a little bit and ask
+something like, "Why is there an Israeli-Palestine conflict?" You're not exactly looking
+for a singular fact anymore, you're looking for knowledge, which is something way more
+complicated and delicate. And to get to knowledge, you have to bring 10 or 20 or 100 facts
+to the table and acknowledge them and say, "Yes, these are all true." But because of who I
+am, young or old, black or white, gay or straight, I will value them differently.
+
+And I will say, "Yes, this is true, but this is more important to me than that." And this
+is where it becomes interesting, because this is where we become human. This is when we
+start to argue, to form society. And to really get somewhere, we need to filter all our
+facts here, through friends and neighbors and parents and children and coworkers and
+newspapers and magazines, to finally be grounded in real knowledge, which is something
+that a search engine is a poor help to achieve. So, I promised you an example just to show
+you why it's so hard to get to the point of true, clean, objective knowledge — as food for
+thought. I will conduct a couple of simple queries, search queries. We'll start with
+"Michelle Obama," the First Lady of the United States. And we'll click for pictures. It
+works really well, as you can see. It's a perfect search result, more or less. It's just
+her in the picture, not even the President. How does this work? Quite simple.
+
+Google uses a lot of smartness to achieve this, but quite simply, they look at two things
+more than anything. First, what does it say in the caption under the picture on each
+website? Does it say "Michelle Obama" under the picture? Pretty good indication it's
+actually her on there. Second, Google looks at the picture file, the name of the file as
+such uploaded to the website. Again, is it called "MichelleObama.jpeg"? Pretty good
+indication it's not Clint Eastwood in the picture. So, you've got those two and you get a
+search result like this — almost. Now, in 2009, Michelle Obama was the victim of a racist
+campaign, where people set out to insult her through her search results. There was a
+picture distributed widely over the Internet where her face was distorted to look like a
+monkey. And that picture was published all over. And people published it very, very
+purposefully, to get it up there in the search results.
+
+They made sure to write "Michelle Obama" in the caption and they made sure to upload the
+picture as "MichelleObama.jpeg," or the like. You get why — to manipulate the search
+result. And it worked, too. So when you picture-Googled for "Michelle Obama" in 2009, that
+distorted monkey picture showed up among the first results. Now, the results are
+self-cleansing, and that's sort of the beauty of it, because Google measures relevance
+every hour, every day. However, Google didn't settle for that this time, they just
+thought, "That's racist and it's a bad search result and we're going to go back and clean
+that up manually. We are going to write some code and fix it," which they did. And I don't
+think anyone in this room thinks that was a bad idea. Me neither. But then, a couple of
+years go by, and the world's most-Googled Anders, Anders Behring Breivik, did what he did.
+This is July 22 in 2011, and a terrible day in Norwegian history.
+
+This man, a terrorist, blew up a couple of government buildings walking distance from
+where we are right now in Oslo, Norway and then he traveled to the island of Utøya and
+shot and killed a group of kids. Almost 80 people died that day. And a lot of people would
+describe this act of terror as two steps, that he did two things: he blew up the buildings
+and he shot those kids. It's not true. It was three steps. He blew up those buildings, he
+shot those kids, and he sat down and waited for the world to Google him. And he prepared
+all three steps equally well. And if there was somebody who immediately understood this, it
+was a Swedish web developer, a search engine optimization expert in Stockholm, named Nikke
+Lindqvist. He's also a very political guy and he was right out there in social media, on
+his blog and Facebook. And he told everybody, "If there's something that this guy wants
+right now, it's to control the image of himself. Let's see if we can distort
+that.
+
+Let's see if we, in the civilized world, can protest against what he did through insulting
+him in his search results."And how? He told all of his readers the following, "Go out
+there on the Internet, find pictures of dog poop on sidewalks — find pictures of dog poop
+on sidewalks — publish them in your feeds, on your websites, on your blogs. Make sure to
+write the terrorist's name in the caption, make sure to name the picture file
+"Breivik.jpeg." Let's teach Google that that's the face of the terrorist." And it worked.
+Two years after that campaign against Michelle Obama, this manipulation campaign against
+Anders Behring Breivik worked. If you picture-Googled for him weeks after the July 22
+events from Sweden, you'd see that picture of dog poop high up in the search results, as a
+little protest. Strangely enough, Google didn't intervene this time. They did not step in
+and manually clean those search results up.
+
+So the million-dollar question, is there anything different between these two happenings
+here? Is there anything different between what happened to Michelle Obama and what
+happened to Anders Behring Breivik? Of course not. It's the exact same thing, yet Google
+intervened in one case and not in the other. Why? Because Michelle Obama is an honorable
+person, that's why, and Anders Behring Breivik is a despicable person. See what happens
+there? An evaluation of a person takes place and there's only one power-player in the
+world with the authority to say who's who. "We like you, we dislike you. We believe in
+you, we don't believe in you. You're right, you're wrong. You're true, you're false.
+You're Obama, and you're Breivik." That's power if I ever saw it. So I'm asking you to
+remember that behind every algorithm is always a person, a person with a set of personal
+beliefs that no code can ever completely eradicate.
+
+And my message goes out not only to Google, but to all believers in the faith of code
+around the world. You need to identify your own personal bias. You need to understand that
+you are human and take responsibility accordingly. And I say this because I believe we've
+reached a point in time when it's absolutely imperative that we tie those bonds together
+again, tighter: the humanities and the technology. Tighter than ever. And, if nothing
+else, to remind us that that wonderfully seductive idea of the unbiased, clean search
+result is, and is likely to remain, a myth. Thank you for your time.
+
+<!--
+ad_duration=3.33
+comment_count=67
+event="TEDxOslo"
+external_start_time=0
+has_talk_citation=0
+intro_duration=11.82
+is_subtitle_required="False"
+is_talk_featured="True"
+language="en"
+language_swap="False"
+native_language="en"
+number_of_related_talks=6
+number_of_speakers=1
+number_of_subtitled_videos=33
+number_of_tags=11
+number_of_talk_download_languages=33
+number_of_talk_more_resources=2
+number_of_talk_recommendations=0
+number_of_talks_take_actions=0
+post_ad_duration=0.83
+published_timestamp="2015-11-10 16:35:42"
+recording_date="2015-01-29"
+speaker_description="Author and journalist"
+speaker_is_published=1
+speaker_name="Andreas Ekström"
+talk_name="The moral bias behind your search results"
+talks_tags=["tedx","algorithm","communication","decisionmaking","society","google","internet","software","technology","web","computers"]
+talks_take_action=[]
+url_audio="https://download.ted.com/talks/AndreasEkstrom_2015X.mp3?apikey=acme-roadrunner"
+url_photo_speaker="https://pe.tedcdn.com/images/ted/63ec78203eb0062969c3456a0381458b3eb21bfb_254x191.jpg"
+url_photo_talk="https://s3.amazonaws.com/talkstar-photos/uploads/9623a66e-9c4c-4e80-bae5-fac3ccec96f3/AndreasEkstrom_2015X-embed.jpg"
+url_webpage="https://www.ted.com/talks/andreas_ekstrom_the_moral_bias_behind_your_search_results"
+video_type_name="TEDx Talk"
+-->

@@ -1,0 +1,102 @@
+---
+title: A thousand times no
+speaker: Bahia Shehab
+description: >-
+ Art historian Bahia Shehab has long been fascinated with the Arabic script for
+ 'no.' When revolution swept through Egypt in 2011, she began spraying the image
+ in the streets saying no to dictators, no to military rule and no to violence.
+date: 2012-06-25
+tags: ["egypt","middle-east","ted-fellows","protests","world-cultures","art"]
+slug: bahia_shehab_a_thousand_times_no
+---
+
+Two years ago, I was invited as an artist to participate in an exhibition commemorating
+100 years of Islamic art in Europe. The curator had only one condition: I had to use the
+Arabic script for my artwork. Now, as an artist, a woman, an Arab, or a human being living
+in the world in 2010, I only had one thing to say: I wanted to say no. And in Arabic, to
+say "no," we say "no, and a thousand times no."So I decided to look for a thousand
+different noes. on everything ever produced under Islamic or Arab patronage in the past
+1,400 years, from Spain to the borders of China. I collected my findings in a book, placed
+them chronologically, stating the name, the patron, the medium and the date. Now, the book
+sat on a small shelf next to the installation, which stood three by seven meters, in
+Munich, Germany, in September of 2010.Now, in January, 2011, the revolution started, and
+life stopped for 18 days, and on the 12th of February, we naively celebrated on the
+streets of Cairo, believing that the revolution had succeeded. Nine months later I found
+myself spraying messages in Tahrir Square.
+
+The reason for this act was this image that I saw in my newsfeed. I did not feel that I
+could live in a city where people were being killed and thrown like garbage on the street.
+So I took one "no" off a tombstone from the Islamic Museum in Cairo, and I added a message
+to it: "no to military rule." And I started spraying that on the streets in Cairo. But
+that led to a series of no, coming out of the book like ammunition, and adding messages to
+them, and I started spraying them on the walls. So I'll be sharing some of these noes with
+you. No to a new Pharaoh, because whoever comes next should understand that we will never
+be ruled by another dictator. No to violence: Ramy Essam came to Tahrir on the second day
+of the revolution, and he sat there with this guitar, singing. One month after Mubarak
+stepped down, this was his reward. No to blinding heroes. Ahmed Harara lost his right eye
+on the 28th of January, and he lost his left eye on the 19th of November, by two different
+snipers. No to killing, in this case no to killing men of religion, because Sheikh Ahmed
+Adina Refaat was shot on December 16th, during a demonstration, leaving behind three
+orphans and a widow. No to burning books.
+
+The Institute of Egypt was burned on December 17th, a huge cultural loss. No to stripping
+the people, and the blue bra is to remind us of our shame as a nation when we allow a
+veiled woman to be stripped and beaten on the street, and the footprint reads, "Long live
+a peaceful revolution," because we will never retaliate with violence. No to barrier walls.
+On February 5th, concrete roadblocks were set up in Cairo to protect the Ministry of
+Defense from protesters. Now, speaking of walls, I want to share with you the story of one
+wall in Cairo. A group of artists decided to paint a life-size tank on a wall. It's one to
+one. In front of this tank there's a man on a bicycle with a breadbasket on his head. To
+any passerby, there's no problem with this visual. After acts of violence, another artist
+came, painted blood, protesters being run over by the tank, demonstrators, and a message
+that read, "Starting tomorrow, I wear the new face, the face of every martyr.
+
+I exist." Authority comes, paints the wall white, leaves the tank and adds a message:
+"Army and people, one hand. Egypt for Egyptians." Another artist comes, paints the head of
+the military as a monster eating a maiden in a river of blood in front of the tank.
+Authority comes, paints the wall white, leaves the tank, leaves the suit, and throws a
+bucket of black paint just to hide the face of the monster. So I come with my stencils,
+and I spray them on the suit, on the tank, and on the whole wall, and this is how it
+stands today until further notice. 
+
+Now, I want to leave you with a final no. I found Neruda scribbled on a piece of paper in
+a field hospital in Tahrir, and I decided to take a no of Mamluk Mausoleum in Cairo. The
+message reads, [Arabic] "You can crush the flowers, but you can't delay spring."Thank you.
+
+Thank you. Shukran. 
+
+<!--
+ad_duration=3.33
+comment_count=90
+event="TEDGlobal 2012"
+external_start_time=0
+has_talk_citation=0
+intro_duration=11.82
+is_subtitle_required="False"
+is_talk_featured="True"
+language="en"
+language_swap="False"
+native_language="en"
+number_of_related_talks=6
+number_of_speakers=1
+number_of_subtitled_videos=36
+number_of_tags=6
+number_of_talk_download_languages=37
+number_of_talk_more_resources=2
+number_of_talk_recommendations=0
+number_of_talks_take_actions=0
+post_ad_duration=0.83
+published_timestamp="2012-09-28 15:23:12"
+recording_date="2012-06-25"
+speaker_description="Artist and historian"
+speaker_is_published=1
+speaker_name="Bahia Shehab"
+talk_name="A thousand times no"
+talks_tags=["egypt","middle-east","ted-fellows","protests","world-cultures","art"]
+talks_take_action=[]
+url_audio="https://download.ted.com/talks/BahiaShehab_2012G.mp3?apikey=acme-roadrunner"
+url_photo_speaker="https://pe.tedcdn.com/images/ted/3723b538f9d86a88e9e5636d982ac6176622c879_254x191.jpg"
+url_photo_talk="https://pe.tedcdn.com/images/ted/2c45eceb645c6fae35e14e07a8c942176b4935e2_1600x1200.jpg"
+url_webpage="https://www.ted.com/talks/bahia_shehab_a_thousand_times_no"
+video_type_name="TED Stage Talk"
+-->

@@ -1,0 +1,90 @@
+---
+title: Why the octopus brain is so extraordinary
+speaker: Cláudio Guerra
+description: >-
+ Octopuses have the ability to solve puzzles, learn through observation, and even
+ use tools – just like humans. But what makes octopus intelligence so amazing is
+ that it comes from a biological structure completely different from ours. Cláudio
+ L. Guerra takes a look inside the amazing octopus brain. [Directed by Cinematic,
+ narrated by Addison Anderson].
+date: 2015-12-03
+tags: ["animals","animation","oceans","teded","brain","biology","evolution","science"]
+slug: claudio_guerra_why_the_octopus_brain_is_so_extraordinary
+---
+
+What could octopuses possibly have in common with us? After all, they don't have lungs,
+spines, or even a plural noun we can all agree on. But what they do have is the ability to
+solve puzzles, learn through observation, and even use tools, just like some other animals
+we know. And what makes octopus intelligence so amazing is that it comes from a
+biological structure completely different from ours. The 200 or so species of octopuses
+are mollusks belonging to the order cephalopoda, Greek for head-feet. Those heads contain
+impressively large brains, with a brain to body ratio similar to that of other intelligent
+animals, and a complex nervous system with about as many neurons as that of a dog. But
+instead of being centralized in the brain, these 500 million neurons are spread out in a
+network of interconnected ganglia organized into three basic structures. The central brain
+only contains about 10% of the neurons, while the two huge optic lobes contain about
+30%.
+
+The other 60% are in the tentacles, which for humans would be like our arms having minds
+of their own. This is where things get even more interesting. Vertebrates like us have a
+rigid skeleton to support our bodies, with joints that allow us to move. But not all types
+of movement are allowed. You can't bend your knee backwards, or bend your forearm in the
+middle, for example. Cephalopods, on the other hand, have no bones at all, allowing them
+to bend their limbs at any point and in any direction. So shaping their tentacles into any
+one of the virtually limitless number of possible arrangements is unlike anything we are
+used to. Consider a simple task, like grabbing and eating an apple. The human brain
+contains a neurological map of our body. When you see the apple, your brain's motor center
+activates the appropriate muscles, allowing you to reach out with your arm, grab it with
+your hand, bend your elbow joint, and bring it to your mouth.
+
+For an octopus, the process is quite different. Rather than a body map, the cephalopod
+brain has a behavior library. So when an octopus sees food, its brain doesn't activate a
+specific body part, but rather a behavioral response to grab. As the signal travels
+through the network, the arm neurons pick up the message and jump into action to command
+the movement. As soon as the arm touches the food, a muscle activation wave travels all
+the way through the arm to its base, while the arm sends back another wave from the base
+to the tip. The signals meet halfway between the food and the base of the arm, letting it
+know to bend at that spot. What all this means is that each of an octopus's eight arms can
+essentially think for itself. This gives it amazing flexibility and creativity when
+facing a new situation or problem, whether its opening a bottle to reach food, escaping
+through a maze, moving around in a new environment, changing the texture and the color of
+its skin to blend into the scenery, or even mimicking other creatures to scare away
+enemies.
+
+Cephalopods may have evolved complex brains long before our vertebrate relatives. And
+octopus intelligence isn't just useful for octopuses. Their radically different nervous
+system and autonomously thinking appendages have inspired new research in developing
+flexible robots made of soft materials. And studying how intelligence can arise along such
+a divergent evolutionary path can help us understand more about intelligence and
+consciousness in general. Who knows what other forms of intelligent life are possible, or
+how they process the world around them.
+
+<!--
+ad_duration=0
+event="TED-Ed"
+external_start_time=0
+intro_duration=0
+is_subtitle_required="False"
+is_talk_featured="False"
+language="en"
+language_swap="False"
+native_language="en"
+number_of_related_talks=6
+number_of_speakers=1
+number_of_subtitled_videos=0
+number_of_tags=8
+number_of_talk_download_languages=24
+number_of_talk_more_resources=0
+number_of_talk_recommendations=0
+number_of_talks_take_actions=0
+post_ad_duration=0
+published_timestamp="2019-04-01 18:41:02"
+recording_date="2015-12-03"
+speaker_is_published=0
+speaker_name="Cláudio Guerra"
+talk_name="Why the octopus brain is so extraordinary"
+talks_tags=["animals","animation","oceans","teded","brain","biology","evolution","science"]
+url_photo_talk="https://s3.amazonaws.com/talkstar-photos/uploads/2c58ddb5-0934-47f8-9ec1-76d86b917a37/169_octopus.jpg"
+url_webpage="https://www.ted.com/talks/claudio_guerra_why_the_octopus_brain_is_so_extraordinary"
+video_type_name="TED-Ed Original"
+-->

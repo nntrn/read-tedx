@@ -1,0 +1,98 @@
+---
+title: Could fish social networks help us save coral reefs?
+speaker: Mike Gil
+description: >-
+ Mike Gil spies on fish: using novel multi-camera systems and computer vision
+ technology, the TED Fellow and his colleagues explore how coral reef fish behave,
+ socialize and affect their ecosystems. Learn more about how fish of different
+ species communicate via social networks -- and what disrupting these networks
+ might mean to the delicate ecology of reefs, which help feed millions of us and
+ support the global economy.
+date: 2017-08-27
+tags: ["ted-fellows","animals","anthropocene","biology","biosphere","communication","fish","environment","nature","science","sustainability","oceans","coral-reefs"]
+slug: mike_gil_could_fish_social_networks_help_us_save_coral_reefs
+---
+
+Who here is fascinated by life under the sea? Fantastic. Now, what did we just do? Let's
+dissect this for a second. The simple action of an individual raising a hand led many
+others to do the same. Now, it's true that when individuals in a social network have
+common priorities, it's often beneficial to copy one another. Think back to grade school
+and dressing like the cool kids made you "cool." But copying behavior is also common in
+wild animals. For example, some birds copy the alarm calls of other birds to spread
+information about approaching predators. But could copying behavior in wild animals affect
+entire ecosystems that we humans depend on? I was led to this question while studying coral
+reefs, which support millions of people through fisheries and tourism here in Africa and
+around the world. But coral reefs depend on fish that perform a critical job by eating
+algae. Because if left unchecked, these algae can kill coral and take over entire coral
+reefs, a costly change that is difficult or impossible to reverse. So to understand how
+fish may prevent this, I spy on them while they're eating algae, which can be difficult
+for them to do in open parts of the reef exposed to predators, some of which, on rare
+occasion, appear to realize I'm watching them.
+
+So clearly, clearly, for reef fish, dining out can be scary. But I wanted to understand
+how these fish do their job in risky situations. So my colleagues and I put massive video
+camera stands in a coral reef to remotely monitor entire feeding grounds that produce a
+lot of algae but are exposed to predators. And this perspective from above shows us the
+feeding behavior and precise movements of many different fish, shown here with colored
+dots. And by analyzing thousands of fish movements to and from feeding grounds, we
+discovered a pattern. These fish, despite being from different species and not swimming in
+schools, were copying one another, such that one fish entering these dangerous feeding
+grounds could lead many others to do the same. And fish stayed for longer and ate more
+algae when they were surrounded by more feeding fish. Now, this could be happening because
+even simple movements by individual fish can inadvertently communicate vital
+information.
+
+For example, if even one fish sees a predator and flees, this can alert many others to
+danger. And a fish safely entering feeding grounds can show others that the coast is
+clear. So it turns out that even when these fish are different species, they are connected
+within social networks which can provide information on when it's safe to eat. And our
+analyses indicate that fish simply copying other fish in their social network could
+account for over 60 percent of the algae eaten by the fish community, and thus could be
+critical to the flow of energy and resources through coral reef ecosystems. But these
+findings also suggest that overfishing, a common problem in coral reefs, not only removes
+fish, but it could break up the social network of remaining fish, which may hide more and
+eat less algae because they're missing critical information. And this would make coral
+reefs more vulnerable than we currently predict. So remarkably, fish social networks allow
+the actions of one to spread to many and could affect entire coral reefs, which feed
+millions of us and support the global economy for all of us. Now, our discovery points us
+towards better ways to sustainably manage coral reefs, but it also shows us, we humans are
+not just affected by the actions of other humans, but we could be affected by the actions
+of individual fish on a distant coral reef through their simple copying behavior. Thank
+you.
+
+<!--
+ad_duration=3.33
+comment_count=5
+event="TEDGlobal 2017"
+external_start_time=0
+has_talk_citation=1
+intro_duration=11.82
+is_subtitle_required="False"
+is_talk_featured="True"
+language="en"
+language_swap="False"
+native_language="en"
+number_of_related_talks=6
+number_of_speakers=1
+number_of_subtitled_videos=27
+number_of_tags=13
+number_of_talk_download_languages=27
+number_of_talk_more_resources=0
+number_of_talk_recommendations=1
+number_of_talks_take_actions=4
+post_ad_duration=0.83
+published_timestamp="2018-01-30 20:56:29"
+recording_date="2017-08-27"
+speaker_description="Marine biologist"
+speaker_is_published=1
+speaker_name="Mike Gil"
+talk_more_resources=[]
+talk_name="Could fish social networks help us save coral reefs?"
+talk_recommendations_blurb="More resources curated by Mike Gil"
+talks_tags=["ted-fellows","animals","anthropocene","biology","biosphere","communication","fish","environment","nature","science","sustainability","oceans","coral-reefs"]
+url_audio="https://download.ted.com/talks/MikeGil_2017G.mp3?apikey=acme-roadrunner"
+url_photo_speaker="https://pe.tedcdn.com/images/ted/ec54f0a47d097c0950e4be2833860ec8a80f9226_254x191.jpg"
+url_photo_talk="https://s3.amazonaws.com/talkstar-photos/uploads/fc8bd68e-77a6-4431-8546-2e759a20bae7/MikeGil_2017G-embed.jpg"
+url_webpage="https://www.ted.com/talks/mike_gil_could_fish_social_networks_help_us_save_coral_reefs"
+video_type_name="TED Stage Talk"
+-->

@@ -1,0 +1,119 @@
+---
+title: My invention that made peace with lions
+speaker: Richard Turere
+description: >-
+ In the Maasai community where Richard Turere lives with his family, cattle are
+ all-important. But lion attacks were growing more frequent. In this short,
+ inspiring talk, the young inventor shares the solar-powered solution he designed
+ to safely scare the lions away.
+date: 2013-02-27
+tags: ["agriculture","biodiversity","technology"]
+slug: richard_turere_my_invention_that_made_peace_with_lions
+---
+
+This is where I live. I live in Kenya, at the south parts of the Nairobi National Park.
+Those are my dad's cows at the back, and behind the cows, that's the Nairobi National
+Park. Nairobi National Park is not fenced in the south widely, which means wild animals
+like zebras migrate out of the park freely. So predators like lions follow them, and this
+is what they do. They kill our livestock. This is one of the cows which was killed at
+night, and I just woke up in the morning and I found it dead, and I felt so bad, because
+it was the only bull we had. My community, the Maasai, we believe that we came from heaven
+with all our animals and all the land for herding them, and that's why we value them so
+much. So I grew up hating lions so much. The morans are the warriors who protect our
+community and the livestock, and they're also upset about this problem. So they kill the
+lions. It's one of the six lions which were killed in Nairobi.
+
+And I think this is why the Nairobi National Park lions are few. So a boy, from six to nine
+years old, in my community is responsible for his dad's cows, and that's the same thing
+which happened to me. So I had to find a way of solving this problem. And the first idea I
+got was to use fire, because I thought lions were scared of fire. But I came to realize
+that that didn't really help, because it was even helping the lions to see through the
+cowshed. So I didn't give up. I continued. And a second idea I got was to use a scarecrow.
+I was trying to trick the lions [into thinking] that I was standing near the cowshed. But
+lions are very clever. 
+
+They will come the first day and they see the scarecrow, and they go back, but the second
+day, they'll come and they say, this thing is not moving here, it's always here.
+
+So he jumps in and kills the animals. So one night, I was walking around the cowshed with
+a torch, and that day, the lions didn't come. And I discovered that lions are afraid of a
+moving light. So I had an idea. Since I was a small boy, I used to work in my room for the
+whole day, and I even took apart my mom's new radio, and that day she almost killed me,
+but I learned a lot about electronics. 
+
+So I got an old car battery, an indicator box. It's a small device found in a motorcycle,
+and it helps motorists when they want to turn right or left. It blinks. And I got a switch
+where I can switch on the lights, on and off. And that's a small torch from a broken
+flashlight. So I set up everything. As you can see, the solar panel charges the battery,
+and the battery supplies the power to the small indicator box. I call it a transformer.
+And the indicator box makes the lights flash. As you can see, the bulbs face outside,
+because that's where the lions come from. And that's how it looks to lions when they come
+at night. The lights flash and trick the lions into thinking I was walking around the
+cowshed, but I was sleeping in my bed.
+
+Thanks. So I set it up in my home two years ago, and since then, we have never experienced
+any problem with lions. And my neighboring homes heard about this idea. One of them was
+this grandmother. She had a lot of her animals being killed by lions, and she asked me if
+I could put the lights for her. And I said, "Yes." So I put the lights. You can see at the
+back, those are the lion lights. Since now, I've set up seven homes around my community,
+and they're really working. And my idea is also being used now all over Kenya for scaring
+other predators like hyenas, leopards, and it's also being used to scare elephants away
+from people's farms. Because of this invention, I was lucky to get a scholarship in one of
+the best schools in Kenya, Brookhouse International School, and I'm really excited about
+this. My new school now is coming in and helping by fundraising and creating an awareness.
+I even took my friends back to my community, and we're installing the lights to the homes
+which don't have [any], and I'm teaching them how to put them. So one year ago, I was just
+a boy in the savanna grassland herding my father's cows, and I used to see planes flying
+over, and I told myself that one day, I'll be there inside.
+
+And here I am today. I got a chance to come by plane for my first time for TED. So my big
+dream is to become an aircraft engineer and pilot when I grow up. I used to hate lions, but
+now because my invention is saving my father's cows and the lions, we are able to stay
+with the lions without any conflict. Ashê olên. It means in my language, thank you very
+much.
+
+Chris Anderson: You have no idea how exciting it is to hear a story like yours. So you got
+this scholarship. Richard Turere: Yep. CA: You're working on other electrical inventions.
+What's the next one on your list? RT: My next invention is, I want to make an electric
+fence. CA: Electric fence? RT: But I know electric fences are already invented, but I want
+to make mine. 
+
+CA: You already tried it once, right, and you —RT: I tried it before, but I stopped
+because it gave me a shock. 
+
+CA: In the trenches. Richard Turere, you are something else. We're going to cheer you on
+every step of the way, my friend. Thank you so much. RT: Thank you. 
+
+<!--
+ad_duration=3.33
+event="TED2013"
+external_start_time=0
+intro_duration=11.82
+is_subtitle_required="True"
+is_talk_featured="True"
+language="en"
+language_swap="False"
+native_language="en"
+number_of_related_talks=6
+number_of_speakers=1
+number_of_subtitled_videos=43
+number_of_tags=3
+number_of_talk_download_languages=43
+number_of_talk_more_resources=0
+number_of_talk_recommendations=0
+number_of_talks_take_actions=0
+post_ad_duration=0.83
+published_timestamp="2013-03-27 13:59:29"
+recording_date="2013-02-27"
+speaker_description="Inventor"
+speaker_is_published=1
+speaker_name="Richard Turere"
+speaker_what_others_say="Congratulations to Richard for thinking outside the box, to not only save the cattle but to protect the lions as well."
+talk_name="My invention that made peace with lions"
+talks_tags=["agriculture","biodiversity","technology"]
+url_audio="https://download.ted.com/talks/RichardTurere_2013.mp3?apikey=acme-roadrunner"
+url_photo_speaker="https://pe.tedcdn.com/images/ted/b15dded15148a23241457dce4f225330be980655_254x191.jpg"
+url_photo_talk="https://pe.tedcdn.com/images/ted/1d369b73bf27ebdb1450605454d66229bda2ab1c_1600x1200.jpg"
+url_webpage="https://www.ted.com/talks/richard_turere_my_invention_that_made_peace_with_lions"
+video_type_name="TED Stage Talk"
+-->

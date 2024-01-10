@@ -1,0 +1,95 @@
+---
+title: Our natural sleep cycle is nothing like what we do now
+speaker: Jessa Gamble
+description: >-
+ In today's world, balancing school, work, kids and more, most of us can only hope
+ for the recommended eight hours of sleep. Examining the science behind our body's
+ internal clock, Jessa Gamble reveals the surprising and substantial program of
+ rest we should be observing.
+date: 2010-07-15
+tags: ["evolution","humanity","personal-growth","science","self"]
+slug: jessa_gamble_our_natural_sleep_cycle_is_nothing_like_what_we_do_now
+---
+
+Let's start with day and night. Life evolved under conditions of light and darkness, light
+and then darkness. And so plants and animals developed their own internal clocks so that
+they would be ready for these changes in light. These are chemical clocks, and they're
+found in every known being that has two or more cells and in some that only have one
+cell. I'll give you an example — if you take a horseshoe crab off the beach, and you fly it
+all the way across the continent, and you drop it into a sloped cage, it will scramble up
+the floor of the cage as the tide is rising on its home shores, and it'll skitter down
+again right as the water is receding thousands of miles away. It'll do this for weeks,
+until it kind of gradually loses the plot. And it's incredible to watch, but there's
+nothing psychic or paranormal going on; it's simply that these crabs have internal cycles
+that correspond, usually, with what's going on around it. So, we have this ability as
+well.
+
+And in humans, we call it the "body clock." You can see this most clearly when you take
+away someone's watch and you shut them into a bunker, deep underground, for a couple of
+months. 
+
+People actually volunteer for this, and they usually come out kind of raving about their
+productive time in the hole. So, no matter how atypical these subjects would have to be,
+they all show the same thing. They get up just a little bit later every day — say 15
+minutes or so — and they kind of drift all the way around the clock like this over the
+course of the weeks. And so, in this way we know that they are working on their own
+internal clocks, rather than somehow sensing the day outside. So fine, we have a body
+clock, and it turns out that it's incredibly important in our lives. It's a huge driver
+for culture and I think that it's the most underrated force on our behavior. We evolved as
+a species near the equator, and so we're very well-equipped to deal with 12 hours of
+daylight and 12 hours of darkness. But of course, we've spread to every corner of the
+globe and in Arctic Canada, where I live, we have perpetual daylight in summer and 24
+hours of darkness in winter.
+
+So the culture, the northern aboriginal culture, traditionally has been highly seasonal.
+In winter, there's a lot of sleeping going on; you enjoy your family life inside. And in
+summer, it's almost manic hunting and working activity very long hours, very active. So,
+what would our natural rhythm look like? What would our sleeping patterns be in the sort
+of ideal sense? Well, it turns out that when people are living without any sort of
+artificial light at all, they sleep twice every night. They go to bed around 8:00 p.m.
+until midnight and then again, they sleep from about 2:00 a.m. until sunrise. And
+in-between, they have a couple of hours of sort of meditative quiet in bed. And during
+this time, there's a surge of prolactin, the likes of which a modern day never sees. The
+people in these studies report feeling so awake during the daytime, that they realize
+they're experiencing true wakefulness for the first time in their lives. So, cut to the
+modern day.
+
+We're living in a culture of jet lag, global travel, 24-hour business, shift work. And you
+know, our modern ways of doing things have their advantages, but I believe we should
+understand the costs. Thank you.
+
+<!--
+ad_duration=3.33
+event="TEDGlobal 2010"
+external_start_time=0
+has_talk_citation=1
+intro_duration=11.82
+is_subtitle_required="False"
+is_talk_featured="True"
+language="en"
+language_swap="False"
+native_language="en"
+number_of_related_talks=6
+number_of_speakers=1
+number_of_subtitled_videos=39
+number_of_tags=5
+number_of_talk_download_languages=40
+number_of_talk_more_resources=0
+number_of_talk_recommendations=0
+number_of_talks_take_actions=0
+post_ad_duration=0.83
+published_timestamp="2010-09-15 09:04:00"
+recording_date="2010-07-15"
+speaker_description="Writer"
+speaker_is_published=1
+speaker_name="Jessa Gamble"
+talk_more_resources=[]
+talk_name="Our natural sleep cycle is nothing like what we do now"
+talks_tags=["evolution","humanity","personal-growth","science","self"]
+talks_take_action=[]
+url_audio="https://download.ted.com/talks/JessaGamble_2010G.mp3?apikey=acme-roadrunner"
+url_photo_speaker="https://pe.tedcdn.com/images/ted/198862_254x191.jpg"
+url_photo_talk="https://pe.tedcdn.com/images/ted/198859_800x600.jpg"
+url_webpage="https://www.ted.com/talks/jessa_gamble_our_natural_sleep_cycle_is_nothing_like_what_we_do_now"
+video_type_name="TED Stage Talk"
+-->
