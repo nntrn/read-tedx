@@ -31,11 +31,11 @@ create_toc_index() {
       "<div id=\"top\"></div>",
       "",
       "**JUMP TO**: ",
-      ($data|map("[\(.letter)](#\(.letter|ascii_downcase))")|unique|join(" | ")), 
+      ($data|map("[\(.letter)](#\(.letter|ascii_downcase))")|unique|join(" - ")), 
       "", 
       (group_by(.letter) | map([ 
         "","## \(.[0].letter)", "",
-        (group_by(.speaker) | map(["- \(.[0].speaker)",(map("[\(.title)](\(.file))")|join(", "))]|join(": "))),
+        (group_by(.speaker) | map(["- \(.[0].speaker)",(map("[\(.title|gsub("[\\|><]+[\\s]?";"";"x"))](\(.file))")|join(", "))]|join(": "))),
         "",
         "[[TOP]](#top)" 
       ]))
